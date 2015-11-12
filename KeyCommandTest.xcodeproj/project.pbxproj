@@ -15,6 +15,7 @@
 		246AF58A1BF38EA60084B1BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 246AF5891BF38EA60084B1BA /* Assets.xcassets */; };
 		246AF58D1BF38EA60084B1BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 246AF58B1BF38EA60084B1BA /* LaunchScreen.storyboard */; };
 		246AF5951BF3A8690084B1BA /* ContainedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 246AF5941BF3A8690084B1BA /* ContainedViewController.swift */; };
+		2497BD361BF504710098A3BA /* KeyCommandController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2497BD351BF504710098A3BA /* KeyCommandController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		246AF58C1BF38EA60084B1BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		246AF58E1BF38EA60084B1BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		246AF5941BF3A8690084B1BA /* ContainedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContainedViewController.swift; sourceTree = "<group>"; };
+		2497BD351BF504710098A3BA /* KeyCommandController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyCommandController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				246AF5821BF38EA60084B1BA /* MasterViewController.swift */,
 				246AF5841BF38EA60084B1BA /* DetailViewController.swift */,
 				246AF5941BF3A8690084B1BA /* ContainedViewController.swift */,
+				2497BD351BF504710098A3BA /* KeyCommandController.swift */,
 				24459BC81BF3F0C600186FE1 /* UIViewController.swift */,
 				246AF5861BF38EA60084B1BA /* Main.storyboard */,
 				246AF5891BF38EA60084B1BA /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				246AF5951BF3A8690084B1BA /* ContainedViewController.swift in Sources */,
+				2497BD361BF504710098A3BA /* KeyCommandController.swift in Sources */,
 				246AF5851BF38EA60084B1BA /* DetailViewController.swift in Sources */,
 				246AF5831BF38EA60084B1BA /* MasterViewController.swift in Sources */,
 				246AF5811BF38EA60084B1BA /* AppDelegate.swift in Sources */,
